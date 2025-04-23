@@ -1,5 +1,6 @@
-## Hi there 👋
+## Atherstone Network
 
+Atherstone - Tech Project Minecraft Bedrock Edition
 <!--
 
 **Here are some ideas to get you started:**
